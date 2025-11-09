@@ -1,0 +1,2 @@
+# Visual_EEG_Decoding
+Leveraging Visual Blur Perception Characteristics for EEG Decoding [AAAI 2026]
